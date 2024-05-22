@@ -1,4 +1,4 @@
-# EasyIcon
+<h1><a href='https://placidityisepic.github.io/EasyIcon/index.html'>EasyIcon</a></h1>
 Icons for your website, easily using EasyIcon!
 
 ### How to use EasyIcon:
